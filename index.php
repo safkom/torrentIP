@@ -7,7 +7,7 @@ if (!empty($_SERVER['HTTP_CLIENT_IP'])) {
     $ip = $_SERVER['REMOTE_ADDR'];
 }
 
-$public_ip = '84.52.166.248';
+$public_ip = '46.182.225.4';
 
 echo $ip;
 
